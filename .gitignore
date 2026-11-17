@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local app data
+/.gform-local/
+
+# Legacy local data paths
+/.gform-logs/
+/.gform-data/
